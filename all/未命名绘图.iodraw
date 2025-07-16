@@ -39,8 +39,8 @@
         <mxCell id="OqL6svY8H9wtxq-7X0p7-15" value="&lt;span style=&quot;font-size: 22px; text-align: left;&quot;&gt;jvm的内存：String的内存布局&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="20" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OqL6svY8H9wtxq-7X0p7-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="OqL6svY8H9wtxq-7X0p7-16" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;栈&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
