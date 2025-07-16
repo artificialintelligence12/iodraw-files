@@ -36,7 +36,7 @@
         <mxCell id="OqL6svY8H9wtxq-7X0p7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OqL6svY8H9wtxq-7X0p7-13" value="jvm的内存：String的内存布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="OqL6svY8H9wtxq-7X0p7-13" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;jvm的内存：String的内存布局&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" width="760" height="60" as="geometry" />
         </mxCell>
       </root>
