@@ -57,7 +57,7 @@
         <mxCell id="OqL6svY8H9wtxq-7X0p7-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;main栈/方法&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;s -&amp;gt; [0X99]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OqL6svY8H9wtxq-7X0p7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="OqL6svY8H9wtxq-7X0p7-34" target="OqL6svY8H9wtxq-7X0p7-27">
+        <mxCell id="OqL6svY8H9wtxq-7X0p7-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.611;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OqL6svY8H9wtxq-7X0p7-34" target="OqL6svY8H9wtxq-7X0p7-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
